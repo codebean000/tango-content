@@ -1,4 +1,4 @@
-for i in {1..80}
+for i in {81..381}
 do
-cp -r two-tier tf$i
+cp -r tf1 tf$i
 done
